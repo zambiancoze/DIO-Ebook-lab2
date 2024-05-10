@@ -4,7 +4,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/Firefly a lot of codes in SQL with a small person crying in the fetal position over a red X futurist.jpg"
     width="400"  
 />
 </p>
