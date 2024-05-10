@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src=".github/assets/Firefly a lot of codes in SQL with a small person crying in the fetal position over a red X futurist.jpg">
 </p>
 
 
@@ -39,16 +39,22 @@ seguem abaixo.
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| :Criar os titulos: | Crie um titulo de um ebook sobre o tema SQL, o ebook é do nicho de programação e sub nicho sql server, o titulo de ser comico e direto, com uma temática de meme, me liste 7 variações de titulos |
+
+                                                    |
+| conteúdo | Faça um texto para um ebook, com foco em SQL, listando boas praticas com exemplos em códigos
+[REGRAS]
+>Explique de maneira simples
+>Deixe o texto enxuto
+>Sempre traga exemplos de codigo em contexto real
+>Sempre deixe um titulo sugestivo por topico |
 
 
-Midjourney：
+Adobe Firefly：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | a lot of codes in SQL with a small person crying in the fetal position over a red X futurist |
 
 ## ✨ Features
 
