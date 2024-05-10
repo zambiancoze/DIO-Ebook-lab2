@@ -34,10 +34,10 @@ ChatGPT：
 | :----: | -------------------------------------------------------------------------------------- | 
 | conteúdo | Faça um texto para um ebook, com foco em SQL, listando boas praticas com exemplos em códigos
 [REGRAS]
->Explique de maneira simples
->Deixe o texto enxuto
->Sempre traga exemplos de codigo em contexto real
->Sempre deixe um titulo sugestivo por topico |
+|>Explique de maneira simples|
+|>Deixe o texto enxuto|
+|>Sempre traga exemplos de codigo em contexto real|
+|>Sempre deixe um titulo sugestivo por topico |
 
 
 Adobe Firefly：
